@@ -1,1 +1,1 @@
-# Analyst_simulator-karpov.courses
+# Analyst_simulator karpov.courses
